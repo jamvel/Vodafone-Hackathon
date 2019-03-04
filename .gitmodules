@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/jamvel/Vodafone-Hackathon-Frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/jamvel/Vodafone-Hackathon-Backend.git
