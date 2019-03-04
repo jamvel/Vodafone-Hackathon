@@ -39,6 +39,7 @@ ERROR: Encountered errors while bringing up the project.
 
 Fix:
 https://stackoverflow.com/a/47541330
+https://askubuntu.com/a/671337
 
 ------
 Error:
@@ -46,4 +47,7 @@ Version in “./docker-compose.yml” is unsupported. You might be seeing this e
 
 Fix:
 Use sudo on step 3 and step 4
+
 https://stackoverflow.com/a/49407448
+
+------
