@@ -6,6 +6,7 @@ Project is divided in 2 repositories : backend,frontend
 ## Init
 To pull backend and frontend submodules and fixing detached HEAD
 ```shell
+git submodule init
 git pull --recurse-submodules
 cd backend && git checkout master && cd ..
 cd frontend && git checkout master && cd ..
