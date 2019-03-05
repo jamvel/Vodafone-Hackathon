@@ -13,6 +13,10 @@ cd frontend && git checkout master && cd ..
 ```
 
 ## Commands
+
+### Backend
+
+In root directory:
 Bring containers up  [-d] to run detached process
 ```shell
 docker-compose up -d
@@ -21,11 +25,22 @@ Ubuntu: Make sure docker-compose is updated
 ```shell
 sudo docker-compose up -d
 ```
-
-
 Bring containers down
 ```shell
 docker-compose down
+```
+
+### Frontend
+
+```shell
+cd frontend
+npm start
+```
+**or**
+
+```shell
+cd frontend
+expo start
 ```
 
 ## Troubleshooting
