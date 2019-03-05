@@ -16,7 +16,7 @@ cd frontend && git checkout master && cd ..
 
 ### Backend
 
-In root directory:
+**In root directory:<br />**
 Bring containers up  [-d] to run detached process
 ```shell
 docker-compose up -d
