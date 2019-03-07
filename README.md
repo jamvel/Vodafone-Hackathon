@@ -31,7 +31,7 @@ docker-compose down
 ```
 
 ### Frontend
-
+**After installation:**
 ```shell
 cd frontend
 npm start
