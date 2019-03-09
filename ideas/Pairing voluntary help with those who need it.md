@@ -1,5 +1,10 @@
 ## Pairing voluntary help with those who need it
 
+Target audience:
+	NGO	(preference)
+	Users
+
+
 During Xmas social workers post what they kids needs
 Basically the social worker is responsible for a kid. 
 	And the kid for xmas wants clothes, nintendo money for school
